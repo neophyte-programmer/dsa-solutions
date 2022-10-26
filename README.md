@@ -96,6 +96,16 @@ These wonderful people have contributed to this project:
 
 ## Project Maintainers
 <!-- readme: collaborators -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/qbentil">
+            <img src="https://avatars.githubusercontent.com/u/55560024?v=4" width="100;" alt="qbentil"/>
+            <br />
+            <sub><b>Bentil Shadrack</b></sub>
+        </a>
+    </td></tr>
+</table>
 <!-- readme: collaborators -end -->
 
 This project follows the [all-contributors](#) specification. Contributions of any kind are welcome! \
