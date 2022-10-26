@@ -89,7 +89,9 @@ These wonderful people have contributed to this project:
 
 This project follows the [all-contributors](#) specification. Contributions of any kind are welcome! \
 You are welcome to contribute to this project. 
+
 Please read the [CONTIBUTING.md](https://github.com/neophyte-programmer/dsa-typescript/blob/master/.github/CONTRIBUTING.md) file for details on our code of conduct, and the process for submitting pull requests to us.
+
 
 &#xa0;
 
