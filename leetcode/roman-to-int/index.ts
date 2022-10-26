@@ -1,8 +1,12 @@
-
+/**
+ * 
+ * @param s: string
+ * @returns result: number
+ */
 
 function romanToInt(s: string): number {
 	s = s.toUpperCase()
-	let result = 0
+	let result:number = 0
 
 	for (let i = 0; i < s.length; i++) {
 		switch (s[i]) {
