@@ -18,6 +18,8 @@ If your problem source is not listed here, please create an issue and we will ad
 - [TypeScript](https://www.typescriptlang.org/)
 - [JavaScript](https://www.javascript.com/)
 
+If your language is not listed here, please create an issue and we will add it to the list.
+
 **You code must be written in the language listed above.**
 
 ### :white_check_mark: Contribution Guidelines
