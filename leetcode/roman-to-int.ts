@@ -1,6 +1,12 @@
+/**
+ * 
+ * @param s: string
+ * @returns result: number
+ */
+
 function romanToInt(s: string): number {
 	s = s.toUpperCase()
-	let result = 0
+	let result:number = 0
 
 	for (let i = 0; i < s.length; i++) {
 		switch (s[i]) {
@@ -54,3 +60,17 @@ function romanToInt(s: string): number {
 
 	return result
 }
+
+// test case for romanToInt
+
+// TEST CASE 1
+console.log(romanToInt('iii')) // 3
+
+// TEST CASE 2
+console.log(romanToInt('IV')) // 4
+
+// TEST CASE 3
+console.log(romanToInt('Ix')) // 9
+
+// TEST CASE 4
+console.log(romanToInt('LVIiI')) // 58
