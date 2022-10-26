@@ -77,7 +77,7 @@ These wonderful people have contributed to this project:
 <table>
   <tr>
       <td align="center">
-      <a href="https://github.com/Neophyte-Programmer">
+      <a href="https://github.com/Neophyte-Programmer" style="border-radius: 50%;">
         <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88439064?v=4" width="90px;" alt=""/><br /><sub><b>Neophyte-Programmer</b></sub></a><br /><a href="https://github.com/neophyte-programmer/dsa-typescript/commits?author=Neophyte-Programmer" title="Code">👩‍💻</a>
     </td>
     <td align="center">
@@ -86,6 +86,10 @@ These wonderful people have contributed to this project:
 
   </tr>
 </table>
+
+This project follows the [all-contributors](#) specification. Contributions of any kind are welcome! \
+You are welcome to contribute to this project. 
+Please read the CONTRIBUTING.md file for details on our code of conduct, and the process for submitting pull requests to us.
 
 &#xa0;
 

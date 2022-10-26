@@ -74,3 +74,6 @@ console.log(romanToInt('Ix')) // 9
 
 // TEST CASE 4
 console.log(romanToInt('LVIiI')) // 58
+
+// Time Complexity: O(n)
+// Space Complexity: O(1)

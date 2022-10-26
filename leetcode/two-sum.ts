@@ -32,3 +32,6 @@ console.log(twoSum([3, 2, 4], 6)) // [1,2]
 
 // TEST CASE 3
 console.log(twoSum([3,2, 5, 7, 1, 5], 6)) // [2,4]
+
+// Time Complexity: O(n^2)
+// Space Complexity: O(1)
