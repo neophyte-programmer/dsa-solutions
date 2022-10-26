@@ -78,14 +78,17 @@ These wonderful people have contributed to this project:
   <tr>
       <td align="center">
       <a href="https://github.com/Neophyte-Programmer" style="border-radius: 50%;">
-        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88439064?v=4" width="90px;" alt=""/><br /><sub><b>Neophyte-Programmer</b></sub></a><br /><a href="https://github.com/neophyte-programmer/dsa-typescript/commits?author=Neophyte-Programmer" title="Code">👩‍💻</a>
+        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88439064?v=4" width="90px;" alt=""/><br /><sub><b>Neophyte-Programmer</b></sub></a>
     </td>
     <td align="center">
-      <a href="https://github.com/qbentil"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55560024?v=4" width="90px;" alt=""/><br /><sub><b>qbentil</b></sub></a><br /><a href="https://github.com/neophyte-programmer/dsa-typescript/commits?author=qbentil" title="Code">👨‍💻</a>
+      <a href="https://github.com/qbentil"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55560024?v=4" width="90px;" alt=""/><br /><sub><b>qbentil</b></sub></a>
     </td>
 
   </tr>
 </table>
+
+<!-- readme: contributors -start -->
+<!-- readme: contributors -end -->
 
 This project follows the [all-contributors](#) specification. Contributions of any kind are welcome! \
 You are welcome to contribute to this project. 
