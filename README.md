@@ -74,18 +74,39 @@ $ cd dsa-typescript
 
 These wonderful people have contributed to this project:
 
+<!-- readme: contributors -start -->
 <table>
-  <tr>
-      <td align="center">
-      <a href="https://github.com/Neophyte-Programmer" style="border-radius: 50%;">
-        <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88439064?v=4" width="90px;" alt=""/><br /><sub><b>Neophyte-Programmer</b></sub></a><br /><a href="https://github.com/neophyte-programmer/dsa-typescript/commits?author=Neophyte-Programmer" title="Code">👩‍💻</a>
+<tr>
+    <td align="center">
+        <a href="https://github.com/qbentil">
+            <img src="https://avatars.githubusercontent.com/u/55560024?v=4" width="100;" alt="qbentil"/>
+            <br />
+            <sub><b>Bentil Shadrack</b></sub>
+        </a>
     </td>
     <td align="center">
-      <a href="https://github.com/qbentil"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/55560024?v=4" width="90px;" alt=""/><br /><sub><b>qbentil</b></sub></a><br /><a href="https://github.com/neophyte-programmer/dsa-typescript/commits?author=qbentil" title="Code">👨‍💻</a>
-    </td>
-
-  </tr>
+        <a href="https://github.com/neophyte-programmer">
+            <img src="https://avatars.githubusercontent.com/u/88439064?v=4" width="100;" alt="neophyte-programmer"/>
+            <br />
+            <sub><b>Nutifafa Afi Attor</b></sub>
+        </a>
+    </td></tr>
 </table>
+<!-- readme: contributors -end -->
+
+## Project Maintainers
+<!-- readme: collaborators -start -->
+<table>
+<tr>
+    <td align="center">
+        <a href="https://github.com/qbentil">
+            <img src="https://avatars.githubusercontent.com/u/55560024?v=4" width="100;" alt="qbentil"/>
+            <br />
+            <sub><b>Bentil Shadrack</b></sub>
+        </a>
+    </td></tr>
+</table>
+<!-- readme: collaborators -end -->
 
 This project follows the [all-contributors](#) specification. Contributions of any kind are welcome! \
 You are welcome to contribute to this project. 
