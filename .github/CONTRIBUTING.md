@@ -11,6 +11,7 @@ The problems are sourced from various platforms like Leetcode, HackerRank.
 Make sure your problem is sourced from one of these platforms.
 - [Leetcode](https://leetcode.com/);
 - [HackerRank](https://www.hackerrank.com/);
+- [Edabit](https://www.edabit.com/);
   
 If your problem source is not listed here, please create an issue and we will add it to the list.
 
@@ -18,9 +19,9 @@ If your problem source is not listed here, please create an issue and we will ad
 - [TypeScript](https://www.typescriptlang.org/)
 - [JavaScript](https://www.javascript.com/)
 
-If your language is not listed here, please create an issue and we will add it to the list.
+If your preferred language is not listed here, please create an issue and we will add it to the list.
 
-**You code must be written in the language listed above.**
+**Your code must be written in one of the languages listed above.**
 
 ### :white_check_mark: Contribution Guidelines
 - Create a folder with the name of the problem in  the respective source folder. `i.e. leetcode/two-sum-ts or hackerrank/counting-valleys-js`

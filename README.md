@@ -46,7 +46,8 @@ Let's learn together.👯‍♂️
 
 :heavy_check_mark: [Leetcode](https://leetcode.com/);\
 :heavy_check_mark: [HackerRank](https://www.hackerrank.com/);\
-:heavy_check_mark: [CodeChef](https://www.codechef.com/);
+:heavy_check_mark: [CodeChef](https://www.codechef.com/);\
+:heavy_check_mark: [Edabit](https://edabit.com/challenges);\
 
 ## :rocket: Technologies
 
