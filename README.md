@@ -47,13 +47,14 @@ Let's learn together.👯‍♂️
 :heavy_check_mark: [Leetcode](https://leetcode.com/);\
 :heavy_check_mark: [HackerRank](https://www.hackerrank.com/);\
 :heavy_check_mark: [CodeChef](https://www.codechef.com/);\
-:heavy_check_mark: [Edabit](https://edabit.com/challenges);\
+:heavy_check_mark: [Edabit](https://edabit.com/challenges);
 
 ## :rocket: Technologies
 
 The following tools were used in this project:
 
 - [TypeScript](https://www.typescriptlang.org/)
+- [JavaScript](https://www.javascript.com/)
 
 ## :white_check_mark: Requirements
 
