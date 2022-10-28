@@ -92,6 +92,13 @@ These wonderful people have contributed to this project:
             <br />
             <sub><b>Nutifafa Afi Attor</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/samtuga1">
+            <img src="https://avatars.githubusercontent.com/u/79772304?v=4" width="100;" alt="samtuga1"/>
+            <br />
+            <sub><b>Samuel Twumasi</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
