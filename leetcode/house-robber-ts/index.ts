@@ -31,5 +31,3 @@ const robRange = (nums: number[], start: number, end: number): number => {
 }
 
 
-console.log(rob([0]));
-
