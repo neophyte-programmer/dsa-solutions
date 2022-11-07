@@ -47,13 +47,15 @@ Let's learn together.👯‍♂️
 :heavy_check_mark: [Leetcode](https://leetcode.com/);\
 :heavy_check_mark: [HackerRank](https://www.hackerrank.com/);\
 :heavy_check_mark: [CodeChef](https://www.codechef.com/);\
-:heavy_check_mark: [Edabit](https://edabit.com/challenges);\
+:heavy_check_mark: [Edabit](https://edabit.com/challenges);
 
 ## :rocket: Technologies
 
 The following tools were used in this project:
 
 - [TypeScript](https://www.typescriptlang.org/)
+- [JavaScript](https://www.javascript.com/)
+- [Python](https://www.python.org/)
 
 ## :white_check_mark: Requirements
 
@@ -90,6 +92,13 @@ These wonderful people have contributed to this project:
             <img src="https://avatars.githubusercontent.com/u/88439064?v=4" width="100;" alt="neophyte-programmer"/>
             <br />
             <sub><b>Nutifafa Afi Attor</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/samtuga1">
+            <img src="https://avatars.githubusercontent.com/u/79772304?v=4" width="100;" alt="samtuga1"/>
+            <br />
+            <sub><b>Samuel Twumasi</b></sub>
         </a>
     </td></tr>
 </table>
