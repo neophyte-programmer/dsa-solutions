@@ -55,6 +55,7 @@ The following tools were used in this project:
 
 - [TypeScript](https://www.typescriptlang.org/)
 - [JavaScript](https://www.javascript.com/)
+- [Python](https://www.python.org/)
 
 ## :white_check_mark: Requirements
 
