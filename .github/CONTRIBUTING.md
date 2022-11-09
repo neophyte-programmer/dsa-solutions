@@ -18,6 +18,7 @@ If your problem source is not listed here, please create an issue and we will ad
 ### :rocket: Languages Used
 - [TypeScript](https://www.typescriptlang.org/)
 - [JavaScript](https://www.javascript.com/)
+- [Python](https://www.python.org/)
 
 If your preferred language is not listed here, please create an issue and we will add it to the list.
 
