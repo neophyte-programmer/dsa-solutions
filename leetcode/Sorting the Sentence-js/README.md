@@ -23,7 +23,7 @@ sortSentence('I1 am3 nice2 guy4')// I nice am guy
 
 ```
 ## Time Complexity
-**O(1)**
+**O(n^2)**
 
 ## Space Complexity
 **O(1)**

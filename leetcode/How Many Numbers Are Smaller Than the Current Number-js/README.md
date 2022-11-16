@@ -18,7 +18,7 @@ smallerNumbersThanCurrent([6,5,4,8]) // [2,1,0,3]
 smallerNumbersThanCurrent([7,7,7,7]) // [0,0,0,0]
 ```
 ## Time Complexity
-**O(n)**
+**O(n^2)**
 
 ## Space Complexity
 **O(1)**
