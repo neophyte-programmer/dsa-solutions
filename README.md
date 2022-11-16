@@ -1,4 +1,4 @@
-<h1 align="center">DSA PROBLEM SOLUTIONS IN TYPESCRIPT</h1>
+<h1 align="center">DSA PROBLEM SOLUTIONS</h1>
 
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/neophyte-programmer/dsa-typescript?color=56BEB8">
@@ -19,7 +19,7 @@
 <!-- Status -->
 
 <h4 align="center"> 
-	🚧  DSA PROBLEM SOLUTIONS IN TYPESCRIPT 🚀 On going daily...  🚧
+	🚧  DSA PROBLEM SOLUTIONS 🚀 On going daily...  🚧
 </h4>
 
 <hr>
