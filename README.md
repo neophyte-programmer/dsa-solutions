@@ -114,13 +114,6 @@ These wonderful people have contributed to this project:
             <br />
             <sub><b>Bentil Shadrack</b></sub>
         </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/neophyte-programmer">
-            <img src="https://avatars.githubusercontent.com/u/88439064?v=4" width="100;" alt="neophyte-programmer"/>
-            <br />
-            <sub><b>Nutifafa Afi Attor</b></sub>
-        </a>
     </td></tr>
 </table>
 <!-- readme: collaborators -end -->
