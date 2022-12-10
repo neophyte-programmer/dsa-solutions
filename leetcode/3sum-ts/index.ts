@@ -1,8 +1,3 @@
-/**
- * Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.
- * Notice that the solution set must not contain duplicate triplets
-*/
-
 function threesum(nums: number[]) : number[][] {
     const result: number[][] = [];
     nums.sort((a, b) => a - b);
@@ -29,6 +24,3 @@ function threesum(nums: number[]) : number[][] {
     }
     return result;
 }
-
-// Time complexity: O(n^2)
-// Space complexity: O(1)
