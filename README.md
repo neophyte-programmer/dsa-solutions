@@ -100,6 +100,13 @@ These wonderful people have contributed to this project:
             <br />
             <sub><b>Samuel Twumasi</b></sub>
         </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/KingsleyAmankwah">
+            <img src="https://avatars.githubusercontent.com/u/64941442?v=4" width="100;" alt="KingsleyAmankwah"/>
+            <br />
+            <sub><b>Kingsley✨</b></sub>
+        </a>
     </td></tr>
 </table>
 <!-- readme: contributors -end -->
